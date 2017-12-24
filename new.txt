@@ -14,3 +14,8 @@ git diff --staged
 
 git mv fileName /folder fileName2
 
+ git remote add gitrepo https://github.com/dandindan/good.git
+
+git remote
+
+ git push -u gitrepo master
