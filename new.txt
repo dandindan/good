@@ -14,6 +14,8 @@ git diff --staged
 
 git mv fileName /folder fileName2
 
+getting old commit git checkout number of commit! --new.txt
+
  git remote add gitrepo https://github.com/dandindan/good.git
 
 git remote
